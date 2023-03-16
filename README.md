@@ -26,7 +26,7 @@ Final score: A
 
 ## Homework assignments
 
-The homeworks of this class comprised of two parts - writing assignments and programming assignments. For writing assignments, I uploaded all my hand-written solutions in pictures to the directory of each homework. As for programming assignments, I coded in python.
+The homeworks of this class comprised of two parts - writing assignments and programming assignments. For writing assignments, I uploaded all my hand-written solutions in pictures to the directory of each homework. As for programming assignments, I coded in python and all of the tasks required the students to handcraft algorithms.
 
 - HW1: Experiments with Perceptron Learning Algorithm
 - HW2: Experiments with Linear Models
