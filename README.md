@@ -28,7 +28,12 @@ Final score: A
 
 The homeworks of this class comprised of two parts - writing assignments and programming assignments. For writing assignments, I uploaded all my hand-written solutions in pictures to the directory of each homework. As for programming assignments, I coded in python.
 
-- HW1: 
+- HW1: Experiments with Perceptron Learning Algorithm
+- HW2: Experiments with Linear Models
+- HW3: Experiments with Linear and Nonlinear Models
+- HW4: Experiments with Regularized Logistic Regression
+- HW5: Experiments with Soft-Margin SVM
+- HW6: Experiments with Adaptive Boosting
 
 Please refer to each homework directory for details.
 
